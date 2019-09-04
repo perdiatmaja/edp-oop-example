@@ -1,4 +1,4 @@
-# oop-and-oodp
+# oop
 OOP Concepts
 Object Oriented Programming (OOPs) Concept in Java. OOP have 6 basic concepts, that is:
 
